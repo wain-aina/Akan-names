@@ -2,7 +2,7 @@
   Akan Name Generator
 
 ##Project description.
-  -A web application that takes a user's birthday and calculates the day of the week they were born and then        depending on their gender outputs their Akan Name.
+  A web application that takes a user's birthday and calculates the day of the week they were born and then        depending on their gender outputs their Akan Name.
 
 ##Author(s) information.
   An upcoming software engineer and internet entrepreneur working to bring the future today.
