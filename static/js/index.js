@@ -1,5 +1,5 @@
 function day (cc,yy,mm,dd){
-  return ( ( ( (cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd ) % 7) - 1;
+  return  ( ( (cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd ) % 7;
 }
 function dateakan() {
   var cc = (document.getElementById("Id1").value);
@@ -39,7 +39,7 @@ function dateakan() {
     } else if (gender == "female" && result == 6) {
       alert(females[6]);
     } else {
-      alert("null");
+      alert("invalid. Please try again");
     }
 
 }
