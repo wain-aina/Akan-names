@@ -39,7 +39,7 @@ function dateakan() {
     } else if (gender == "female" && result == 6) {
       alert("Your akan name is " + females[6]);
     } else {
-      alert("invalid. Please try again");
+      alert("invalid. Please try again and enter all details");
     }
 
 }
