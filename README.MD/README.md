@@ -24,3 +24,6 @@
 
 ##Contact information.
   Email: jesse.wainaina@student.moringaschool.com
+
+##Link
+  View [Live](https://wain-aina.github.io/Akan-names/)
